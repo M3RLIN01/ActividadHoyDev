@@ -6,3 +6,4 @@ def multiplicacion(a, b):
     print(a * b)
 def division(a, b):
     print(a / b)
+
